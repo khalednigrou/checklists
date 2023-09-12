@@ -16,28 +16,30 @@
 - [🔍 Search](/Pages/search-page.md)
 - [📰 Blog](/Pages/blog.md)
 
-## 🧱 Elements
-- [🖼️ Avatar](/Elements/avatar.md)
-- [📛 Badge](/Elements/badge.md)
-- [🖲️ Button](/Elements/button.md)
-- [🃏 Card](/Elements/card.md)
-- [📏 Table](/Elements/table.md)
-- [🌠 Icon](/Elements/icon.md)
-- [⌨️ Text field](/Elements/text_field.md)
-- [🎛️ Toggle](/Elements/toggle.md)
-- [⏳ Loading](/Elements/loading.md)
-- [🎉 Modal](/Elements/modal.md)
-- [🔨 Tooltip](/Elements/tooltip.md)
-- [🕵️ Search](/Elements/search.md)
-- [🧭 Navigation](/Elements/navigation.md)
-- [📻 Radio](/Elements/radio.md)
-- [☑️ Checkbox](/Elements/checkbox.md)
-- [🗂 Tabs](/Elements/tabs.md)
-- [🍞 Toast](/Elements/toast.md)
-- [🏳️ Banner](/Elements/banner.md)
-- [⤵️ Dropdown](/Elements/dropdown.md)
+## 🧱 Components
+
+- [🖼️ Avatar](/Components/avatar.md)
+- [📛 Badge](/Components/badge.md)
+- [🖲️ Button](/Components/button.md)
+- [🃏 Card](/Components/card.md)
+- [📏 Table](/Components/table.md)
+- [🌠 Icon](/Components/icon.md)
+- [⌨️ Text field](/Components/text_field.md)
+- [🎛️ Toggle](/Components/toggle.md)
+- [⏳ Loading](/Components/loading.md)
+- [🎉 Modal](/Components/modal.md)
+- [🔨 Tooltip](/Components/tooltip.md)
+- [🕵️ Search](/Components/search.md)
+- [🧭 Navigation](/Components/navigation.md)
+- [📻 Radio](/Components/radio.md)
+- [☑️ Checkbox](/Components/checkbox.md)
+- [🗂 Tabs](/Components/tabs.md)
+- [🍞 Toast](/Components/toast.md)
+- [🏳️ Banner](/Components/banner.md)
+- [⤵️ Dropdown](/Components/dropdown.md)
 
 ## 🌊 Flows
+
 - [📨 Submitting a form](/Flows/submitting-a-form.md)
 - [💳 Making a payment](/Flows/making-a-payment.md)
 - [🆘 Contact support](/Flows/contacting-support.md)
@@ -50,6 +52,7 @@
 - [🛑 Canceling subscription](/Flows/canceling-subscription.md)
 
 ## 💡 Topics
+
 - [🖼️ Responsiveness](/Topics/responsiveness.md) : The adaptability of a canvas - from mobile, to desktop, to super mega widescreen.
 - [🔤 Typography](/Topics/typography.md) : The structure, appearance and style of text on screen, all to influence the experience.
 - [🌑 Dark mode](/Topics/dark-mode.md) : A system-wide visual flip on the interface, with many implications.
@@ -67,4 +70,3 @@
 - [🖼️ Illustrations](/Brand/illustration.md)
 - [📷 Photography](/Brand/photography.md)
 - [⚛️ Iconography](/Brand/iconography.md)
-
