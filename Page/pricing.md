@@ -3,28 +3,27 @@
 ## 必須チェック
 
 - [ ] 料金プラン
-Subscriptions plans or one-off purchase
+サブスクリプションプランまたは 1回限りの購入
 
-- [ ] Pricing features
-What the user will get for purchasing the product
+- [ ] 価格設定の特徴やバリュー
+製品を購入することでユーザーが得られるもの
 
-- [ ] A free pathway to sign up
-A way for user to try your product before considering purchase
-※ Clearly state the length of the trial period before being charged
+- [ ] ユーザーが購入を検討する前に製品を試す方法
+※ 請求されるまでの試用期間の長さを明確に記載する
 
-- [ ] Refund or return policy
-A user may want to understand this further
+- [ ] 返金または返品ポリシー
+ユーザーはこれをさらに理解したいと思うかもしれません
 
 ## 任意
 
-- [ ] Highlighted price as a recommendation
+- [ ] 推奨価格としてハイライト表示
 
-- [ ] Showcase a price that most users purchase, or they will get the best value from
+- [ ] ほとんどのユーザーが購入する価格を提示しないと、最もお得になる価格を提示します。
 
-- [ ] Security logo for payment processing
+- [ ] 決済処理用のセキュリティロゴ
 
-- [ ] Show how you process purchases with a credible vendor for legibility
+- [ ] 信頼できるベンダーからの購入手続きをどのように行っているかを分かりやすく表示する
 
-- [ ] Frequency of payments (monthly vs yearly)
+- [ ] 支払い頻度（月次と年次）
 
-- [ ] You may offer an annual option for long term customers that are rewarded with a discount
+- [ ] 長期顧客向けに割引が受けられる年間オプションを提供することもできます
