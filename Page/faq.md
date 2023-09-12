@@ -2,4 +2,8 @@
 
 ## 必須チェック
 
-coming soon...
+<sup>coming soon...</sup>
+
+## *α
+
+<sup>coming soon...</sup>
